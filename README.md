@@ -22,7 +22,7 @@ The code also provides an example of how to use the Library class. It creates a 
 
 
 
-While the code in library.py file defines a Library class and a LibraryBook class for managing a library's books.
+// While the code in library.py file defines a Library class and a LibraryBook class for managing a library's books.
 
 The LibraryBook class has the following attributes:
 
