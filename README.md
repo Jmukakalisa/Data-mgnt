@@ -1,6 +1,6 @@
 The codes in book.py file implements a simple book library management system. The system consists of two classes: Book and Library.
 
-The Book class has the following properties:
+// The Book class has the following properties:
 
 title: The title of the book
 author: The author of the book
