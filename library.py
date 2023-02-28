@@ -1,4 +1,4 @@
-
+# Library management system
 class LibraryBook:
     def __init__(self, title, author, publication_year, isbn, available=True):
         self.title = title
@@ -21,11 +21,7 @@ class LibraryBook:
         self.available = True
 
 
-
-
-
 # Snippet codes:
-
 
 # Import the Library and LibraryBook classes from the previous example
 from typing import List
